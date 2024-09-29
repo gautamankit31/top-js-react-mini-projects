@@ -15,7 +15,7 @@ Welcome to the **GitHub Profile Explorer**! This project allows you to explore G
 
 ## 📦 Link
 
-- 🔍 github-profile-dhundho.surge.sh
+https://github-profile-dhundho.surge.sh
 
 ---
 
