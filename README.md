@@ -25,7 +25,7 @@ This repository serves as a learning playground to:
    - Link: https://whack-the-mole.surge.sh/
    
 2. **Project 2: GitHub Profile Explorer**
-   - **Tech Stack**: React, Tailwind CSS, GitHub API
+   - **Tech Stack**: HTML, CSS, JS, GitHub API
    - Description: A React app that allows users to search for GitHub profiles and view their repositories, followers, and other key information using the GitHub API.
    - Link: https://github-profile-dhundho.surge.sh/
 
