@@ -27,7 +27,7 @@ This repository serves as a learning playground to:
 2. **Project 2: GitHub Profile Explorer**
    - **Tech Stack**: React, Tailwind CSS, GitHub API
    - Description: A React app that allows users to search for GitHub profiles and view their repositories, followers, and other key information using the GitHub API.
-   - Link: 
+   - Link: https://github-profile-dhundho.surge.sh/
 
 More projects will be added as I continue to explore different aspects of web development.
 
