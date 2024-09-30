@@ -21,7 +21,8 @@ A fun and interactive **Whack-a-Mole** game created using **HTML**, **CSS**, and
 ## 🚀 Getting Started:
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/whack-a-mole.git
+    git clone https://github.com/gautamankit31/top-js-react-mini-projects.git
+    cd top-js-react-mini-projects/Whack-A-Mole
     ```
 
 2. Open the `index.html` file in your browser to start playing the game.
