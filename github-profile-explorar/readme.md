@@ -26,8 +26,8 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/YourUsername/github-profile-explorer.git
-   cd github-profile-explorer
+   git clone https://github.com/gautamankit31/top-js-react-mini-projects.git
+   cd top-js-react-mini-projects/github-profile-explorer
    open index.html
 
 ## Screenshot
